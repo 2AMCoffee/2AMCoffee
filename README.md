@@ -8,7 +8,7 @@ Cats, piano, games (favorites are Elden Ring, Dead by Daylight, Nier: Automata),
 
 - 🌱 I’m currently learning ...
 
-SQL, React, LeetCode
+HTML/CSS/JavaScript
 
 - 💞️ I’m looking to collaborate on ...
  
